@@ -1,0 +1,8 @@
+make a point by point notes of this video "<Video title summary>", so I can understand the whole concept of <Video title summary> easily and even in future when I revise this notes I should be able to get all the concepts clearly and can excel in interview. so if you think you can add more cotext or detail in some topic feel free to add those and make the notes in proper markdown format.
+
+
+Now make hard mcq questions on above topics using which I can test my understanding of above topics.
+It should be in proper markdown format with options as bullet points and 
+correct option MUST NOT be highlighted so i can't guess the answers.
+
+great, now write correct answers of above question with max 1-2 lines explanation in markdown format
